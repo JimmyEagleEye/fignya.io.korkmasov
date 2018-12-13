@@ -12,19 +12,19 @@
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
 
 
-<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/laba/inc/css/dist/block-library/style.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-theme-css'  href='http://localhost/laba/inc/css/dist/block-library/theme.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://jimmyeagleeye.github.io/stankin.io.korkmasov/inc/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://jimmyeagleeye.github.io/stankin.io.korkmasov/inc/css/dist/block-library/theme.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='twentyseventeen-fonts-css'  href='https://fonts.googleapis.com/css?family=Libre+Franklin%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C800%2C800i&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='twentyseventeen-style-css'  href='http://localhost/laba/contents/ui/theme/style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='twentyseventeen-block-style-css'  href='http://localhost/laba/contents/ui/theme/assets/css/blocks.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyseventeen-style-css'  href='https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/ui/theme/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyseventeen-block-style-css'  href='https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/ui/theme/assets/css/blocks.css' type='text/css' media='all' />
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='twentyseventeen-ie8-css'  href='http://localhost/laba/contents/ui/theme/assets/css/ie8.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyseventeen-ie8-css'  href='https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/ui/theme/assets/css/ie8.css' type='text/css' media='all' />
 <![endif]-->
 <!--[if lt IE 9]>
-<script type='text/javascript' src='http://localhost/laba/contents/ui/theme/assets/js/html5.js'></script>
+<script type='text/javascript' src='https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/ui/theme/assets/js/html5.js'></script>
 <![endif]-->
-<script type='text/javascript' src='http://localhost/laba/inc/js/jquery/jquery.js'></script>
-<script type='text/javascript' src='http://localhost/laba/inc/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://jimmyeagleeye.github.io/stankin.io.korkmasov/inc/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://jimmyeagleeye.github.io/stankin.io.korkmasov/inc/js/jquery/jquery-migrate.min.js'></script>
 
 
 
@@ -39,14 +39,14 @@
 		<div class="custom-header">
 
 		<div class="custom-header-media">
-			<div id="wp-custom-header" class="wp-custom-header"><img src="http://localhost/laba/contents/data/2018/12/cropped-1402264668-25.jpg" width="2000" height="1200" alt="Коркмасов Джалалутдин Дагирович" srcset="http://localhost/laba/contents/data/2018/12/cropped-1402264668-25.jpg 2000w, http://localhost/laba/contents/data/2018/12/cropped-1402264668-25-300x180.jpg 300w, http://localhost/laba/contents/data/2018/12/cropped-1402264668-25-768x461.jpg 768w, http://localhost/laba/contents/data/2018/12/cropped-1402264668-25-1024x614.jpg 1024w" sizes="100vw" /></div>		</div>
+			<div id="wp-custom-header" class="wp-custom-header"><img src="https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/data/2018/12/cropped-1402264668-25.jpg" width="2000" height="1200" alt="Коркмасов Джалалутдин Дагирович" srcset="https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/data/2018/12/cropped-1402264668-25.jpg 2000w, https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/data/2018/12/cropped-1402264668-25-300x180.jpg 300w, https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/data/2018/12/cropped-1402264668-25-768x461.jpg 768w, https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/data/2018/12/cropped-1402264668-25-1024x614.jpg 1024w" sizes="100vw" /></div>		</div>
 
 	<div class="site-branding">
 	<div class="wrap">
 
 		
 		<div class="site-branding-text">
-							<p class="site-title"><a href="http://localhost/laba/" rel="home">Коркмасов Джалалутдин Дагирович</a></p>
+							<p class="site-title"><a href="https://jimmyeagleeye.github.io/stankin.io.korkmasov/" rel="home">Коркмасов Джалалутдин Дагирович</a></p>
 			
 							<p class="site-description">ИДМ-18-01</p>
 					</div><!-- .site-branding-text -->
@@ -77,11 +77,11 @@
 
 					
 
-<form role="search" method="get" class="search-form" action="http://localhost/laba/">
-	<label for="search-form-5c1246f67a9bb">
+<form role="search" method="get" class="search-form" action="https://jimmyeagleeye.github.io/stankin.io.korkmasov/">
+	<label for="search-form-5c1249c33a99f">
 		<span class="screen-reader-text">Искать:</span>
 	</label>
-	<input type="search" id="search-form-5c1246f67a9bb" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
+	<input type="search" id="search-form-5c1249c33a99f" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
 	<button type="submit" class="search-submit"><svg class="icon icon-search" aria-hidden="true" role="img"> <use href="#icon-search" xlink:href="#icon-search"></use> </svg><span class="screen-reader-text">Поиск</span></button>
 </form>
 
@@ -110,9 +110,9 @@
 var twentyseventeenScreenReaderText = {"quote":"<svg class=\"icon icon-quote-right\" aria-hidden=\"true\" role=\"img\"> <use href=\"#icon-quote-right\" xlink:href=\"#icon-quote-right\"><\/use> <\/svg>"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://localhost/laba/contents/ui/theme/assets/js/skip-link-focus-fix.js'></script>
-<script type='text/javascript' src='http://localhost/laba/contents/ui/theme/assets/js/global.js'></script>
-<script type='text/javascript' src='http://localhost/laba/contents/ui/theme/assets/js/jquery.scrollTo.js'></script>
+<script type='text/javascript' src='https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/ui/theme/assets/js/skip-link-focus-fix.js'></script>
+<script type='text/javascript' src='https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/ui/theme/assets/js/global.js'></script>
+<script type='text/javascript' src='https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/ui/theme/assets/js/jquery.scrollTo.js'></script>
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <symbol id="icon-behance" viewBox="0 0 37 32">

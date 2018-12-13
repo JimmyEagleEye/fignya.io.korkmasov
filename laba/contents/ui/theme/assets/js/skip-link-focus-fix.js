@@ -23,9 +23,9 @@
   
 
     The link on the
-    <a href="http://localhost/laba/contents/ui/theme%255Cassets%255Cjs%255Cskip-link-focus-fix.js">referring
+    <a href="https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/ui/theme%255Cassets%255Cjs%255Cskip-link-focus-fix.js">referring
     page</a> seems to be wrong or outdated. Please inform the author of
-    <a href="http://localhost/laba/contents/ui/theme%255Cassets%255Cjs%255Cskip-link-focus-fix.js">that page</a>
+    <a href="https://jimmyeagleeye.github.io/stankin.io.korkmasov/contents/ui/theme%255Cassets%255Cjs%255Cskip-link-focus-fix.js">that page</a>
     about the error.
 
   
